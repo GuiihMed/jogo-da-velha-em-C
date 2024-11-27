@@ -230,7 +230,7 @@ void menu() {
                 exibirRanking();
                 break;
             case 3:
-                printf("Créditos: Desenvolvido por Arthur/Renan/Pietro/Gustavo\n");
+                printf("Créditos: Desenvolvido por Arthur/Renan/Pietro/Gustavo/Guilherme\n");
                 break;
             case 4:
                 printf("Saindo...\n");
