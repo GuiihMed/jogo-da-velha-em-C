@@ -1,7 +1,7 @@
 
 #include <stdio.h>
-#include <stdlib.h> // Biblioteca p/ gerenciar a memória
-#include <time.h> // Biblioteca p/ aprimorar o rand
+#include <stdlib.h> // Biblioteca p/ gerenciar a memória  e uso do rand
+#include <time.h> // Biblioteca p/ usar como semente para o rand
 #include <locale.h> // Biblioteca p/ corrigir acentuação
 #include <string.h>
 
